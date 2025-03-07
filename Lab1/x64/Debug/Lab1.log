@@ -1,0 +1,8 @@
+﻿  app_2048.cpp
+C:\Users\Marek\source\repos\AiSD2\Lab1 graficzne\Lab1\app_2048.cpp(122,12): error C3861: 'GET_X_LPARAM': identifier not found
+C:\Users\Marek\source\repos\AiSD2\Lab1 graficzne\Lab1\app_2048.cpp(123,12): error C3861: 'GET_Y_LPARAM': identifier not found
+C:\Users\Marek\source\repos\AiSD2\Lab1 graficzne\Lab1\app_2048.cpp(271,6): error C3490: 'color' cannot be modified because it is being accessed through a const object
+C:\Users\Marek\source\repos\AiSD2\Lab1 graficzne\Lab1\app_2048.cpp(273,6): error C3490: 'color' cannot be modified because it is being accessed through a const object
+  board.cpp
+  main.cpp
+  Generating Code...
